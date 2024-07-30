@@ -7,3 +7,12 @@ expense creation, management, and comprehensive analysis of expenditure trends o
 Through this project, participants will gain practical experience in full-stack development, 
 mastering the intricacies of backend and frontend integration while implementing essential 
 features to deliver a comprehensive expense tracking solution.
+
+step 1: connect the ip - address of the system
+
+step 2: go to backend file location and use "npm start" to connect the database
+
+step 3: go to frontend file loction and use "npm start" for starting the local host
+
+
+
